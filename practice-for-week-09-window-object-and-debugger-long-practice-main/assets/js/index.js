@@ -1,3 +1,5 @@
+import {changeTitle, changeHeader, changeAboutMe} from "./manipulate.js";
+
 changeTitle();
 changeHeader();
 changeAboutMe();
